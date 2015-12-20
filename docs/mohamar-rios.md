@@ -2,3 +2,4 @@
 * Location: Calgary, AB
 * Favorite Food: Pozole
 * Hobby: Math
+* Favorite Color: Purple
