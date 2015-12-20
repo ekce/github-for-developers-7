@@ -3,3 +3,4 @@
 * Favorite Food: Pozole
 * Hobby: Math
 * Favorite Color: Purple
+* More info: More info
